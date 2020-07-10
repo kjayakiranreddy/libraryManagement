@@ -1,0 +1,6 @@
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\bin\Debug\FinalProject13.exe.config
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\bin\Debug\FinalProject13.exe
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\bin\Debug\FinalProject13.pdb
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\obj\Debug\FinalProject13.csprojAssemblyReference.cache
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\obj\Debug\FinalProject13.exe
+C:\Users\jkonkala\Desktop\C#\FinalProject13\FinalProject13\obj\Debug\FinalProject13.pdb
